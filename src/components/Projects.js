@@ -6,25 +6,25 @@ import OpenInBrowserIcon from "@material-ui/icons/OpenInBrowser";
 import FadeInSection from "./FadeInSection";
 
 const projects = {
-  "Dictme | Dictionary app": {
+  "Complete AI | Text Autocomplete for ChatGPT": {
     desc:
-      "Python web app that provides definitions of English words, as well as pronunciations, synonyms, and other features.",
+      "Chrome extension that helps you write prompts faster on ChatGPT with AI-powered autocompletion.",
     techStack: "Python (Flask), Bootstrap, SQLite",
-    link: "https://github.com/merouanezouaid/dictme",
-    open: "https://dictme.herokuapp.com",
+    link: "https://github.com/merouanezouaid/complete-ai",
+    open: "https://chrome.google.com/webstore/detail/complete-ai/fbmngedglhldachckegobogcglnbojge/",
   },
-  YupTube: {
+  "Zklib-js": {
     desc:
-      "Node.js web application for collecting data, converting and downloading videos from YouTube.",
-    techStack: "Node.js, Express",
-    link: "https://github.com/merouanezouaid/yuptube",
-    open: "https://yuptube.herokuapp.com",
+      "Updated Node.js module for ZKTeco biometric devices (+1000 downloads)",
+    techStack: "Node.js, Hardware",
+    link: "https://github.com/merouanezouaid/zklib-js",
+    open: "https://www.npmjs.com/package/zklib-js",
   },
-  "Clinic MS": {
-    desc: "A hospital management system desktop mini-application",
-    techStack: "C#, SQLServer",
-    link: "https://github.com/merouanezouaid/ClinicMS",
-    open: "",
+  "My Gym": {
+    desc: "A gym management system MERN Stack web application",
+    techStack: "MongoDB, Express, React, Node.js",
+    link: "https://github.com/merouanezouaid/gym-management-app",
+    open: "https://gym-management-system-eight.vercel.app/",
   },
 };
 
